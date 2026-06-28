@@ -1,3 +1,8 @@
+# Attention!
+
+This is a custom QMK Userspace for my custom keyboard configs. Everything in here is always a work in progress and is changed when I feel like it. I will try to
+keep the basic functionality with each version.
+
 # QMK Userspace
 
 This is a template repository which allows for an external set of QMK keymaps to be defined and compiled. This is useful for users who want to maintain their own keymaps without having to fork the [main QMK repository](https://github.com/qmk/qmk_firmware). You must still fork the main QMK repository if writing firmware for a *new* keyboard.
